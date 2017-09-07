@@ -1,2 +1,1 @@
-welcome brooooooooooooo
-new git project
+ new repo
